@@ -2,4 +2,4 @@
 
  1. Nomer 1 - 5 menggunakan javascript di run dengan console browser
  2. Nomer 6 menggunakan php dan mysql 
- ![Demo soal nomer6](https://picasaweb.google.com/113087934827219667465/6687150171281256193#6687150170355359954 "Demo nomer6")
+ ![Demo nomer 6](https://lh3.googleusercontent.com/q7VkBJ9duD78UYMzHoGMTQ_txVygoUFI5GU0aQEhccAL7PuXnN5s04vCwARPfHzJQNfr6VQXZFyF "Demo nomer 6")
